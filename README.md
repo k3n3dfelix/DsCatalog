@@ -1,5 +1,7 @@
-# DSCatalog - Projeto Web de Catálogo de Produtos- 
-O DsCatalog é uma aplicação para disponibilização e manutenção de um catálogo de produtos na internet
+# DSCatalog - Projeto Web de Catálogo de Produtos
+O DsCatalog é uma aplicação para disponibilização e manutenção de um catálogo de produtos na internet.
+
+<img src="https://github.com/k3n3dfelix/DsCatalog/blob/main/screens/pagina-principal.PNG" />
 
 ## Layout Figma
 <a href="https://www.figma.com/file/cNa2l3TqZXxbU6NBDPruNw/BDS-DSCatalog?node-id=0%3A1">Link Projeto</a>
